@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "deathcounter",
+    "name": "DeathCounter",
+    "authors": [
+        "SiiMeR"
+    ],
+    "RequiredOnServer": true,
+    "RequiredOnClient": false,
+    "description": "Counts player deaths, including the time and reason of death.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": ""
+    }
+}

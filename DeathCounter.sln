@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeBuild", "DeathCounter\CakeBuild\CakeBuild.csproj", "{1940AC38-4F3A-48A6-B390-D4C420A81A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeathCounter", "DeathCounter\DeathCounter\DeathCounter.csproj", "{B52B6E9C-6A5D-4BBE-86E0-173329AA9D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1940AC38-4F3A-48A6-B390-D4C420A81A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1940AC38-4F3A-48A6-B390-D4C420A81A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1940AC38-4F3A-48A6-B390-D4C420A81A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1940AC38-4F3A-48A6-B390-D4C420A81A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B52B6E9C-6A5D-4BBE-86E0-173329AA9D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B52B6E9C-6A5D-4BBE-86E0-173329AA9D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B52B6E9C-6A5D-4BBE-86E0-173329AA9D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B52B6E9C-6A5D-4BBE-86E0-173329AA9D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
