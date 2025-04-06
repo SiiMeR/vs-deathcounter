@@ -25,8 +25,6 @@ public class DeathCounterModSystem : ModSystem
 
         _api.Event.PlayerDeath += (player, source) =>
         {
-            Console.WriteLine(player.ServerData);
-            
             if(!player.ServerData.CustomPlayerData.ContainsKey("PlayerDeaths"))
             {
                 player.ServerData.CustomPlayerData.Add("PlayerDeaths",
